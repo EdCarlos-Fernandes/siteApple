@@ -7,6 +7,6 @@ Meu objetivo é criar uma versão fiel e responsiva do site, garantindo uma expe
 
 Ao final do projeto, você terá um site totalmente funcional e responsivo, baseado no design da Landing Page fornecida. Estarei comprometido em entregar um produto de alta qualidade que atenda às suas expectativas e reflita a essência da marca Apple.
 
-Abaixo segue a imagem do PSD 
+### Abaixo segue a imagem do PSD 
 
 ![Apple Airpods - Landing Page](https://github.com/EdCarlos-Fernandes/siteApple/assets/92828340/e0bca601-62a5-41f0-a856-74d06b5c27fe)
