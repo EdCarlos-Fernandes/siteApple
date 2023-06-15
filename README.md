@@ -1,4 +1,4 @@
-## Site Apple - Recriação de uma Landing Page PSD com precisão em HTML e CSS
+## Site Apple - Recriação de uma Landing Page PSD com precisão em HTML e CSS  --  (EM DESENVOLVIMENTO)
 
 Neste projeto, proponho recriar o site da Apple com base em uma Landing Page retirada da internet em formato PSD. Utilizarei o arquivo PSD como referência, garantindo que todas as medidas e elementos sejam reproduzidos com precisão em HTML e CSS.
 
